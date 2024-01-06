@@ -1,0 +1,23 @@
+{
+    "new-dir-files": {
+        "fighter/captain/c02": [
+            "fighter/captain/model/bluefalcon/c02/brake_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/disc_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/disc_nor.nutexb",
+            "fighter/captain/model/bluefalcon/c02/glass_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/glass_nor.nutexb",
+            "fighter/captain/model/bluefalcon/c02/interior_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/interior_nor.nutexb",
+            "fighter/captain/model/bluefalcon/c02/paint_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/paint_nor.nutexb",
+            "fighter/captain/model/bluefalcon/c02/plastictrans_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/plastic_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/plastic_nor.nutexb",
+            "fighter/captain/model/bluefalcon/c02/plate_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/plate_nor.nutexb",
+            "fighter/captain/model/bluefalcon/c02/tire_col.nutexb",
+            "fighter/captain/model/bluefalcon/c02/tire_nor.nutexb",
+            "fighter/captain/model/bluefalcon/c02/trim_col.nutexb"
+        ]
+    }
+}

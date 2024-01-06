@@ -1,0 +1,7 @@
+display_name = "Jopious"
+authors = "cosmicist"
+version = "1.0.0"
+description = """
+Jopious over Captain Falcon's c02 costume. Comes with a Model Import for Jopious himself, his car seen in BCS over the Blue Falcon, and the BCS logo over the Falcon Punch. Also comes with UI, Voice, and Name.
+"""
+category = "Fighter"
