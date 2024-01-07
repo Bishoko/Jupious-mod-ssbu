@@ -1,5 +1,7 @@
 
 <div align="center">
+  
+  <img src="https://github.com/Bishoko/Jupious-mod-ssbu/assets/101269524/5b5c17a7-2515-4874-97f7-f18f12603f6d" alt="JUPIOUS!!!">
   <h1>SSBU Mod - Jopious Falcon Skin</h1>
   
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Bishoko/Jupious-mod-ssbu.svg?style=flat)](https://github.com/Bishoko/Jupious-mod-ssbu/releases)
@@ -25,6 +27,7 @@ This mod replaces the third skin of Captain Falcon (c02) in Super Smash Bros. Ul
 To activate the mod, follow these steps:
 
 1. Launch SSBU.
+2. Suffer
 
 
 ## Notes
