@@ -18,7 +18,7 @@ This mod replaces the third skin of Captain Falcon (c02) in Super Smash Bros. Ul
 
 ## Installation
 
-1. Download the mod ZIP file from the [releases](https://github.com/LeLenoch/WebDeck/releases) section on GitHub..
+1. Download the mod ZIP file from the [releases](https://github.com/Bishoko/Jupious-mod-ssbu/releases/lastest) section on GitHub..
 2. Make sure to have [arcropolis](https://github.com/Raytwo/ARCropolis/releases/latest) and [skyline](https://github.com/skyline-dev/skyline/releases/latest) installed.
 3. Extract the contents of the ZIP file into the `sdmc:/ultimate/mods` folder.
 
