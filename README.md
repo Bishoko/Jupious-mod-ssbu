@@ -8,7 +8,6 @@
   [![GitHub downloads](https://img.shields.io/github/downloads/Bishoko/Jupious-mod-ssbu/total.svg?style=flat)](https://github.com/Bishoko/Jupious-mod-ssbu/releases)
   [![GitHub stars](https://img.shields.io/github/stars/Bishoko/Jupious-mod-ssbu.svg?style=flat)](https://github.com/Bishoko/Jupious-mod-ssbu/stargazers)
   [![GitHub watchers](https://img.shields.io/github/watchers/Bishoko/Jupious-mod-ssbu.svg?style=flat)](https://github.com/Bishoko/Jupious-mod-ssbu/watchers)
-  [![CodeFactor](https://www.codefactor.io/repository/github/Bishoko/Jupious-mod-ssbu/badge?style=flat)](https://www.codefactor.io/repository/github/Bishoko/Jupious-mod-ssbu)
   [![Discord](https://discordapp.com/api/guilds/391919052563546112/widget.png?style=shield)](https://discord.gg/umqUVvSfkj)
   
   https://github.com/Bishoko/Jupious-mod-ssbu/assets/101269524/51d2001c-58b7-449d-8fa5-f5bb0c3603d2
