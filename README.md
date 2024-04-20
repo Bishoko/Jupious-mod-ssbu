@@ -46,7 +46,7 @@ To activate the mod, follow these steps:
 - YouTube: https://www.youtube.com/@menuburger
 
 ### Lenoch - Mod creator
-- Github: https://github.com/LeLenoch
+- Github: https://github.com/Lenochxd
 - Twitter: https://twitter.com/LenochJ
 - Youtube: https://youtube.com/LenochSurYoutube
 
